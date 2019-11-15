@@ -1,0 +1,27 @@
+[
+  {
+  "brand": "Demon Slayer T-shirt",
+  "price": 60.00,
+  "image": "https://github.com/frankrabanal/ITM352_F19_repo/blob/master/BUS311WebpageAssignmentFiles/Tshirt1.jpg?raw=true"
+  },
+  {
+  "brand": "Demon Slayer T-shirt 2",
+  "price": 55.00,
+  "image": "https://github.com/frankrabanal/ITM352_F19_repo/blob/master/BUS311WebpageAssignmentFiles/Tshirt3.jpg?raw=true"
+  },
+  {
+  "brand": "Demon Slayer Figurine 1",
+  "price": 45.00,
+  "image": "https://github.com/frankrabanal/ITM352_F19_repo/blob/master/BUS311WebpageAssignmentFiles/Toy1.jpg?raw=true"
+  },
+  {
+  "brand": "Demon Slayer Figurine 2",
+  "price": 40.00,
+  "image": "https://github.com/frankrabanal/ITM352_F19_repo/blob/master/BUS311WebpageAssignmentFiles/Toy3.jpg?raw=true"
+  },
+  {
+  "brand": "Demon Slayer Hat",
+  "price": 25.00,
+  "image": "https://github.com/frankrabanal/ITM352_F19_repo/blob/master/BUS311WebpageAssignmentFiles/Hat3.jpg?raw=true"
+  }
+]
